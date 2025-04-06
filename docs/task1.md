@@ -1,5 +1,5 @@
-# ÈÎÎñÒ»Ìá½» - ÄãµÄÃû×Ö
-## ÎÊÌâ 1£ºÇëÄãÆÀ¼ÛÁÉÄþ¿Æ¼¼´óÑ§
-"C:\Users\Lenovo\2024-Task1-zhaoyongzhe\images\liaoning-university.png.png"
-## ÎÊÌâ 2£ºÄã¾õµÃÎÒµÄÃû×Ö¡°ÄãµÄÃû×Ö¡±ÔõÃ´Ñù£¿
-"C:\Users\Lenovo\2024-Task1-zhaoyongzhe\images\name-evaluation.png.png"
+# ä»»åŠ¡ä¸€æäº¤ - ä½ çš„åå­—
+## é—®é¢˜ 1ï¼šè¯·ä½ è¯„ä»·è¾½å®ç§‘æŠ€å¤§å­¦
+![liaoning-university.png](C:\Users\Lenovo\2024-Task1-zhaoyongzhe\images\liaoning-university.png.png)
+## é—®é¢˜ 2ï¼šä½ è§‰å¾—æˆ‘çš„åå­—â€œä½ çš„åå­—â€æ€Žä¹ˆæ ·ï¼Ÿ
+![name-evaluation.png](C:\Users\Lenovo\2024-Task1-zhaoyongzhe\images\name-evaluation.png.png)
